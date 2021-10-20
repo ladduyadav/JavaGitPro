@@ -6,7 +6,7 @@ public class Hello {
 		System.out.println("Welcome to the world of Java");
 		System.out.println("HI this is murali");
 		System.out.println("hurray my github repo is working");
-		System.out.println("welcome tp india");
+		System.out.println("welcome tp india1");
 	}
 
 }
